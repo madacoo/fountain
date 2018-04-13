@@ -4,7 +4,7 @@ let BGCOLOR = '#D3E8EE';
 let COLOR = 'rgb(255, 255, 255, 0.2)';
 let WIDTH = 1024;
 let HEIGHT = 768;
-let DENSITY = 10;
+let DENSITY = 5;
 
 function draw() {
     background(BGCOLOR);
